@@ -144,12 +144,7 @@ Every project I build is an opportunity to improve my skills while creating some
 
 <img src="https://raw.githubusercontent.com/salalmufeed3344/salalmufeed3344/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
-</div>
-## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 # 🚧 Currently Building
 
