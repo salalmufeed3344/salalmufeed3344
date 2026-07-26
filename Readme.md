@@ -140,13 +140,11 @@ Every project I build is an opportunity to improve my skills while creating some
 ---
 # 📈 Contribution Activity
 
-<div align="center">
+## 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=salalmufeed3344&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salalmufeed3344&theme=github-dark&hide_border=true&radius=12&area=true" alt="Contribution Graph" />
+</p>
 
 # 🚧 Currently Building
 
