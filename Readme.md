@@ -132,10 +132,9 @@ Every project I build is an opportunity to improve my skills while creating some
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=salalmufeed3344&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=salalmufeed3344&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salalmufeed3344&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=salalmufeed3344&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
@@ -307,12 +306,11 @@ If you have an exciting project, feel free to reach out.
 
 # 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img src="[https://github-readme-streak-stats.herokuapp.com](https://streak-stats.demolab.com?user=salalmufeed3344&theme=github-dark-blue&hide_border=true)
-</p>
+<img src="https://streak-stats.demolab.com?user=salalmufeed3344&theme=github-dark-blue&hide_border=true"/>
 
----
+</div>
 
 # ⭐ Support My Work
 
