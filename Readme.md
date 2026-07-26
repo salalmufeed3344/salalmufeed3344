@@ -1,28 +1,42 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Salal%20Mufeed&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20AI-powered%20SaaS%20Products%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0284c7&height=220&section=header&text=Salal%20Mufeed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20AI-powered%20SaaS%20Products%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
 
 # 👋 Hi, I'm Salal Mufeed
 
-### Building AI-powered SaaS products, automation tools, and modern web applications.
+### Full-Stack Developer • AI Developer • SaaS Builder
 
-I enjoy turning ideas into production-ready software with a focus on performance, usability, and solving real business problems.
+I build modern SaaS products, AI-powered applications, and automation tools focused on solving real-world problems through clean design, performance, and great user experience.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7dd3fc?style=for-the-badge)](https://salalmufeed.lovable.app)
-[![Email](https://img.shields.io/badge/Email-Contact-7dd3fc?style=for-the-badge)](mailto:salalmufeed8@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/salalmufeed3344?style=for-the-badge&color=7dd3fc)](https://github.com/salalmufeed3344)
+<p align="center">
+
+<a href="https://salalmufeed.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge"/>
+</a>
+
+<a href="mailto:salalmufeed8@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/salalmufeed3344">
+<img src="https://img.shields.io/github/followers/salalmufeed3344?style=for-the-badge&color=0ea5e9"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=salalmufeed3344&style=for-the-badge&color=0ea5e9"/>
+
+</p>
 
 </div>
 
 ---
 
-# 🚀 Featured Products
+# 🚀 Featured Projects
 
 ## 🧰 Toolixy
 
-AI-powered productivity platform with PDF, image, text, and developer tools.
+An AI-powered productivity platform bringing together developer utilities, PDF tools, image tools, text processing, and automation into one modern web application.
 
-**Tech**
+**Tech Stack**
 
 `Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Supabase` • `OpenAI`
 
@@ -32,9 +46,9 @@ AI-powered productivity platform with PDF, image, text, and developer tools.
 
 ## 📄 Text to PDF Converter
 
-Convert plain text into downloadable PDFs instantly.
+A lightweight web application that instantly converts plain text into downloadable PDF documents.
 
-**Tech**
+**Tech Stack**
 
 `React` • `Tailwind CSS`
 
@@ -44,9 +58,9 @@ Convert plain text into downloadable PDFs instantly.
 
 ## 🔗 VerifyLink
 
-Fast online URL and website verification tool.
+A fast utility for validating URLs, checking website availability, and verifying links.
 
-**Tech**
+**Tech Stack**
 
 `React` • `Node.js`
 
@@ -56,9 +70,9 @@ Fast online URL and website verification tool.
 
 ## 💰 CoinSync
 
-Modern cryptocurrency tracker with real-time market insights.
+A cryptocurrency dashboard that provides real-time market information with a clean and responsive interface.
 
-**Tech**
+**Tech Stack**
 
 `Next.js` • `React`
 
@@ -66,39 +80,56 @@ Modern cryptocurrency tracker with real-time market insights.
 
 ---
 
-# 💡 What I Build
+# 💻 What I Build
 
-- 🤖 AI-powered SaaS applications
-- 🌐 Modern full-stack web applications
-- ⚡ Automation tools
-- 📈 Productivity platforms
+- 🤖 AI-powered SaaS products
+- 🌐 Full-stack web applications
+- ⚡ Productivity and automation tools
+- 📈 Business-focused software
 - 🚀 Startup products
+
+---
+
+# 🚧 Currently Working On
+
+- 🧰 Expanding Toolixy with new AI tools
+- 🤖 Building automation products
+- 🚀 Launching new SaaS ideas
+- 🌍 Creating products used by developers and businesses worldwide
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
+<p align="center">
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,supabase,postgres,git,github,vercel,netlify,vscode"/>
 
-### Backend
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,supabase,postgres)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify)
+</p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=salalmufeed3344&show_icons=true&theme=nord&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=salalmufeed3344&theme=nord&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salalmufeed3344&layout=compact&theme=nord&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=salalmufeed3344&theme=nord&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salalmufeed3344&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -106,15 +137,15 @@ Modern cryptocurrency tracker with real-time market insights.
 
 # 🎯 2026 Goals
 
-- ✅ Continue growing Toolixy
-- 🚀 Launch more AI-powered SaaS products
-- 🌍 Build products used worldwide
-- 🤝 Collaborate on impactful projects
-- 📚 Contribute more to open source
+- 🚀 Continue growing Toolixy
+- 🤖 Launch more AI-powered SaaS products
+- 🌍 Build software used around the world
+- 🤝 Contribute to open source projects
+- 📚 Keep learning and shipping consistently
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -127,9 +158,21 @@ Modern cryptocurrency tracker with real-time market insights.
 </a>
 
 <a href="mailto:salalmufeed8@gmail.com">
-<img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black"/>
+<img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://salalmufeed.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=150&section=footer"/>
+---
+
+<div align="center">
+
+*"Building products one commit at a time."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0284c7,100:7dd3fc&height=120&section=footer"/>
