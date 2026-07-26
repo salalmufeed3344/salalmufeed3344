@@ -138,12 +138,11 @@ Every project I build is an opportunity to improve my skills while creating some
 </div>
 
 ---
-# 📈 Contribution Activity
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salalmufeed3344&theme=github-dark&hide_border=true&radius=12&area=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 # 🚧 Currently Building
