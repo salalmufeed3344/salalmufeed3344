@@ -302,13 +302,7 @@ If you have an exciting project, feel free to reach out.
 
 ---
 
-# 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=salalmufeed3344&theme=github-dark-blue&hide_border=true"/>
-
-</div>
 
 # ⭐ Support My Work
 
